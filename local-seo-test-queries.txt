@@ -1,0 +1,144 @@
+# Local SEO Test Queries - Test These in Google to Verify Your Optimization
+
+## 🎯 Primary Local Keywords to Test:
+1. "printing company Lagos Nigeria"
+2. "printing services Lagos"
+3. "printing near me"
+4. "printing Lagos"
+5. "printing Nigeria"
+6. "best printing Lagos"
+7. "professional printing Lagos"
+
+## 🏢 Service-Specific Local Queries:
+8. "business card printing Lagos"
+9. "banner printing Lagos"
+10. "t-shirt printing Lagos"
+11. "funeral printing Lagos"
+12. "poster printing Lagos"
+13. "flyer printing Lagos"
+14. "brochure printing Lagos"
+
+## 📍 Location-Specific Queries:
+15. "printing Ikeja Lagos"
+16. "printing Victoria Island"
+17. "printing Surulere Lagos"
+18. "printing Yaba Lagos"
+19. "printing Mainland Lagos"
+
+## 🔍 Long-tail Local Queries:
+20. "printing company Lagos fast delivery"
+21. "affordable printing Lagos Nigeria"
+22. "quality printing services Lagos"
+23. "printing Lagos same day delivery"
+24. "professional printing company Lagos Nigeria"
+
+## 📱 Mobile Search Queries:
+25. "printing near me now"
+26. "printing Lagos open today"
+27. "printing services near me"
+28. "local printing company Lagos"
+
+## 🗺️ Map-Based Queries:
+29. "printing Lagos map"
+30. "printing company Lagos directions"
+31. "printing Lagos location"
+32. "printing Lagos address"
+
+## 📞 Contact-Based Queries:
+33. "printing Lagos phone number"
+34. "printing Lagos contact"
+35. "printing Lagos WhatsApp"
+36. "printing Lagos email"
+
+## 🕒 Time-Based Queries:
+37. "printing Lagos open now"
+38. "printing Lagos business hours"
+39. "printing Lagos weekend"
+40. "printing Lagos 24 hours"
+
+## 💰 Price-Based Queries:
+41. "cheap printing Lagos"
+42. "printing prices Lagos"
+43. "affordable printing Lagos"
+44. "printing cost Lagos"
+
+## 🚚 Delivery Queries:
+45. "printing delivery Lagos"
+46. "printing Lagos delivery service"
+47. "printing Lagos courier"
+48. "printing Lagos shipping"
+
+## 🏆 Quality Queries:
+49. "best quality printing Lagos"
+50. "professional printing Lagos Nigeria"
+51. "reliable printing Lagos"
+52. "trusted printing company Lagos"
+
+## 📱 Social Media Queries:
+53. "printing Lagos Instagram"
+54. "printing Lagos Facebook"
+55. "printing Lagos social media"
+56. "printing Lagos reviews"
+
+## 🔥 Emergency/Urgent Queries:
+57. "urgent printing Lagos"
+58. "emergency printing Lagos"
+59. "same day printing Lagos"
+60. "quick printing Lagos"
+
+## 📍 Neighborhood-Specific:
+61. "printing Lekki Lagos"
+62. "printing Ajah Lagos"
+63. "printing Alimosho Lagos"
+64. "printing Kosofe Lagos"
+65. "printing Mushin Lagos"
+
+## 🎨 Specialized Services:
+66. "digital printing Lagos"
+67. "offset printing Lagos"
+68. "screen printing Lagos"
+69. "embroidery Lagos"
+70. "branding services Lagos"
+
+## 📊 How to Test:
+1. Open Google in incognito mode
+2. Search each query one by one
+3. Check if your website appears in:
+   - Top 3 organic results
+   - Local pack (map results)
+   - Featured snippets
+   - People also ask
+   - Related searches
+
+## 📈 Success Indicators:
+✅ Website appears in top 3 for local searches
+✅ Shows up in Google Maps local pack
+✅ Appears for "near me" searches
+✅ Featured snippets for local queries
+✅ High click-through rates from local searches
+✅ Google My Business insights show local activity
+
+## 🚨 Red Flags:
+❌ Not appearing in local searches
+❌ Low rankings for location-based queries
+❌ No Google Maps presence
+❌ Poor local search performance in GSC
+❌ No featured snippets for local terms
+
+## 📱 Test on Different Devices:
+- Desktop computer
+- Mobile phone
+- Tablet
+- Different browsers
+- Incognito/private mode
+
+## 🌍 Test from Different Locations:
+- Use VPN to test from different Nigerian cities
+- Test from Lagos, Abuja, Port Harcourt
+- Check international visibility if applicable
+
+## 📊 Track Progress Weekly:
+- Monitor Google Search Console
+- Check Google My Business insights
+- Track local search rankings
+- Monitor local traffic in Google Analytics
